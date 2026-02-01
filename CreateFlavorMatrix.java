@@ -1,5 +1,8 @@
+<<<<<<<< HEAD:coddydailyprojects/CreateFlavorMatrix.java
 package coddydailyprojects;
-/* Culinary Flavor Matrix Generator
+========
+>>>>>>>> 1ea83b7d45b4833b3e296b4e61752bcff1e78160:CreateFlavorMatrix.java
+/* Culinary Fla
 
 Create a function named createFlavorMatrix that receives mainIngredients and seasonings as its parameters.
 
