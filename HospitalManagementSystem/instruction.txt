@@ -1,0 +1,7 @@
+Hospital Management System
+Concepts: Aggregation, array of objects
+Description:
+Classes: Doctor, Patient, Appointment,
+Department.
+Challenge: Link patients to doctors based
+on department and availability.
