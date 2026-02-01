@@ -19,7 +19,7 @@ The function returns a 2D string array (String[][]) representing the flavor matr
 import java.util.Arrays;
 
 class CreateFlavorMatrix {
-    public static string[][] createFlavorMatrix(String[] mainIngredients, String[] seasonings) {
+    public static String[][] createFlavorMatrix(String[] mainIngredients, String[] seasonings) {
         int rows = mainIngredients.length;
         int cols = seasonings.length;
         String[][] flavorMatrix = new String[rows][cols];
