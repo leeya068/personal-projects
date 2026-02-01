@@ -1,4 +1,6 @@
-/*Create a function named createFlavorMatrix that receives mainIngredients and seasonings as its parameters.
+/* Culinary Fla
+
+Create a function named createFlavorMatrix that receives mainIngredients and seasonings as its parameters.
 
 Your task is to create a culinary flavor matrix by combining main ingredients with various seasonings. This matrix will represent unique flavor combinations, simulating a culinary experiment in the kitchen.
 The function should create and return a 2D array where each element is a combination of a main ingredient and a seasoning. Follow these steps:
