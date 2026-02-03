@@ -1,4 +1,5 @@
 package coddydailyprojects;
+
 /* Garden Plot Information Formatter
 
 Write a function formatPlotInfo that takes plotCode, plantName, date and returns a formatted garden plot information string.
