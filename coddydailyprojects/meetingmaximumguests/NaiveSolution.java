@@ -1,4 +1,4 @@
-package meetingmaximumguests.naivesolution;
+package meetingmaximumguests;
 
 /*
 Naive Solution (Brute Force)
@@ -31,7 +31,15 @@ public class NaiveSolution {
 
         return maxGuests;
     }
-    
+
+    public static void main(String args[]) {
+        int arr[] = {900, 600, 700};
+        int dep[] = {1000, 800, 730};
+        
+        int result = maxGuests(arr, dep);
+        System.out.println(result);
+    }
+
 }
 
 
