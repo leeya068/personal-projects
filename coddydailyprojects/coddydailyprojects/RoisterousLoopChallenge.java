@@ -21,6 +21,7 @@ public class RoisterousLoopChallenge {
                 System.out.println(i);
             }
         }
+        scanner.close();
     }
 }
 

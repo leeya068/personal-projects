@@ -19,8 +19,6 @@ The function returns a 2D string array (String[][]) representing the flavor matr
 
 */
 
-import java.util.Arrays;
-
 class CreateFlavorMatrix {
     public static String[][] createFlavorMatrix(String[] mainIngredients, String[] seasonings) {
         int rows = mainIngredients.length;
